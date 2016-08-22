@@ -1,0 +1,45 @@
+
+.uno {
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	border: 1px solid black;
+ 	margin-bottom: 10px;
+
+}
+.contenedor {
+	width: 380px;
+	background-color: grey;
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
+.dos1, .dos2, .dos3 {
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	border: 1px solid black;
+ 	margin-bottom: 10px;
+ 	display: inline-block;
+ 	margin: 10px;
+}
+.tres1, .tres2 {
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	border: 1px solid black;
+ 	margin-bottom: 10px;
+ 	display: inline-block;
+
+}
+.tres2 {
+	margin-left: 10px;
+}
+.cuatro {
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	border: 1px solid black;
+ 	margin-bottom: 10px;
+
+}
+
